@@ -14,7 +14,7 @@ function Card({ item }) {
           {stack.split(" ").map((el) => (
             <span className="badge badge-primary mr-2">{el}</span>
           ))}
-          <p>{experience}</p>
+          <p className="mt-2">{experience}</p>
           <small><p className="text-muted">{moment(updated_at).fromNow()}</p></small>
           <a
             href={`tg://resolve?domain=${telegram_username}`}
