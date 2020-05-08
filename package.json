@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "deploy": "git push dokku@casply.com:juniors master"
   },
   "dependencies": {
     "axios": "^0.19.2",
