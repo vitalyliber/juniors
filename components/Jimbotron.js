@@ -3,7 +3,7 @@ import React from "react";
 const Jimbotron = () => {
   return (
     <div className="jumbotron">
-      <h1 className="display-4">Работа для junior разработчиков</h1>
+      <h1 className="display">Работа для junior разработчиков</h1>
       <p className="lead">
         Ресурс создан для поддержки начинающих разработчиков, которые недавно закончили
         обучение и готовы начать карьеру в IT.
