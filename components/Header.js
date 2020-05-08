@@ -34,7 +34,7 @@ const Header = () => {
         <div className="container justify-content-between">
           <Link href="/" as="/">
             <a className="navbar-brand text-white">
-              <span>Juniors'</span> Jobs
+              <span>Juniors</span> Jobs
             </a>
           </Link>
         </div>
