@@ -2,7 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import colors from "../utils/colors";
 
-const title = "Работа для Junior разработчиков (1$ per hour)";
+const title = "Работа для Junior разработчиков";
 const desc =
   "Работа для начинающих разработчиков, которые недавно закончили обучение и готовы начать карьеру в IT";
 const Header = () => {
