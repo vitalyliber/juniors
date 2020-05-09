@@ -16,7 +16,7 @@ const Jimbotron = () => {
       </p>
       <p className="lead">
         <a
-          href="tg://resolve?domain=OneDollarPerHourDevsBot"
+          href="tg://resolve?domain=JuniorsJobsBot"
           className="btn btn-primary btn-lg"
         >
           Разместить резюме

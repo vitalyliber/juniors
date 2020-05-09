@@ -11,7 +11,7 @@ function Card({ item }) {
         <Photo item={image} />
         <div className="card-body">
           <h3>{username}</h3>
-          {stack.split(" ").map((el) => (
+          {stack.replace(/,/g,'').split(" ").map((el) => (
             <span className="badge badge-primary mr-2">{el}</span>
           ))}
           <p className="mt-2">{experience}</p>
