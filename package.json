@@ -9,7 +9,7 @@
     "deploy": "git push dokku@casply.com:juniors master"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "moment": "^2.25.3",
     "next": "9.3.6",
